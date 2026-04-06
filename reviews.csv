@@ -1,0 +1,20 @@
+text,sentiment
+"The product quality is excellent",positive
+"This is a very bad experience",negative
+"The service is okay",neutral
+"Amazing phone, very fast and reliable",positive
+"Delivery was very late",negative
+"The camera quality is decent",neutral
+"I love this product, it works perfectly",positive
+"Horrible battery life, waste of money",negative
+"The app is simple to use and intuitive",positive
+"Frequent crashes and errors",neutral
+"Great customer support team",positive
+"The price is too high for the features",negative
+"The design is minimal and elegant",positive
+"It is exactly what I was looking for",positive
+"Poor quality packaging",neutral
+"The product is just average",neutral
+"Very dissatisfied with the speed",negative
+"The UI is very clean and modern",positive
+"Did not meet my expectations",negative
